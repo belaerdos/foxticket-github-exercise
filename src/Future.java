@@ -1,5 +1,5 @@
 public class Future {
     public static void future() {
-        System.out.println("tiger");
+        System.out.println("Tiger");
     }
 }
