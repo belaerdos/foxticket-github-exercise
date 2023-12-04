@@ -1,6 +1,6 @@
 public class C {
     
-    public static void cheer(String crazyStringOMG) {
-        System.out.println(crazyStringOMG + ", so crazy!!!");
+    public static void cheer(String crazyStringOMG, String anotherCrazyStringWOW) {
+        System.out.println(crazyStringOMG + " " + anotherCrazyStringWOW);
     }
 }
