@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        C.cheer("FOXTICKET SAUSAGE TEAM!!!", "So crazy!!");
-        FutureD.future("Tiger", "Beran");
+        C.cheer("FOXTICKET SAUSAGE TEAM!!!");
+        FutureD.future("Tiger");
     }
 
     public static void greet() {
