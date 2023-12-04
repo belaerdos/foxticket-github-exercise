@@ -1,6 +1,5 @@
 public class Count {
-    public void count(){
-        String month = "February";
+    public void count(int year, String month){
         System.out.println(month);
     }
 }
