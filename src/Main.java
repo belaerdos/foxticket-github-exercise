@@ -3,8 +3,4 @@ public class Main {
 
         System.out.println("Hello world!");
     }
-
-    public static void project() {
-        System.out.println("backend - fox ticket project");
-    }
 }
