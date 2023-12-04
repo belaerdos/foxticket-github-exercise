@@ -1,5 +1,5 @@
 public class Count {
-    public void count(int year, String month){
-        System.out.println(month);
+    public void count(String parameter){
+        System.out.println("Counting the countless " + parameter );
     }
 }
