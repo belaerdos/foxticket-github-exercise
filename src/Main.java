@@ -8,7 +8,7 @@ public class Main {
         System.out.println("backend - fox ticket project");
     }
 
-    publis static void greet(){
+    public static void greet(){
         System.out.println("Andrej greets you all <3");
     }
 }
